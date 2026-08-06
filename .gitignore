@@ -1,0 +1,14 @@
+# Сборка PlatformIO
+/.pio/
+
+# Локальная конфигурация — не для публикации
+/src/secrets.h
+/src/config.h
+
+# Артефакты старой версии на ESPHome
+/.esphome/
+/.venv/
+
+# Системное и служебное
+.DS_Store
+/.claude/
