@@ -1,7 +1,6 @@
-# ESP32 + RS485 → Uponor Smatrix Base Pulse X-245
+# управление Uponor Smatrix Base Pulse X-245 в Apple Home через ESP32 + RS485 (10eur в сумме) 
 
-Читает и пишет шину термостатов Uponor и отдаёт управление в **HomeKit**. Приложение «Дом» на iPhone
-управляет уставками напрямую, без Home Assistant или покупки модуля Uponor R208.
+Читает и пишет шину термостатов Uponor и управляет через **HomeKit** / приложение «Дом» для iPhone напрямую, без Home Assistant или покупки модуля Uponor R208 за 400 eur.
 
 Исходный проект был собран на базе ESPHome, откуда взяты знание о протоколе uponor, плюс использованы наработки HOMESpan.
 
