@@ -634,7 +634,7 @@ ESP32 (проверено на классической WROOM-32, 4 МБ) + RS48
   [uponor.com](https://www.uponor.com/en-en/product-online-catalogue/heating-cooling-solutions/digital-controls-services/digital-controls/smatrix-base/uponor-smatrix-base-controller-pulse-x-245-bus-6x)
 
 Протокол шины в документации **не описан** — он результат реверс-инжиниринга
-(см. ESPHome-компонент `uponor_smatrix`, автор kroimon). Расшифровки регистров в
+(см. ESPHome-компонент `uponor_smatrix`, автор @kroimon). Расшифровки регистров в
 этом README получены измерениями на живой системе и сверены с документированным
 поведением, где это было возможно.
 
