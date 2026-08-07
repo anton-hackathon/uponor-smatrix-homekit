@@ -6,9 +6,12 @@
 
 Пароль для начального добавления устройства в Home - 11122333, его можно поменять в src/secrets.h
 
-<img src="./img/IMG_7311.PNG" width="300">
-<img src="/img/IMG_7312.PNG" width="300">
-![Alt-текст](/img/IMG_7312.png)
+<table>
+  <tr>
+    <td><img src="./img/IMG_7311.PNG" width="300"></td>
+    <td><img src="./img/IMG_7312.PNG" width="300"></td>
+  </tr>
+</table>
 
 ## Шина
 
