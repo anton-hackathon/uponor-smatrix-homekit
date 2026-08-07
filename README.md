@@ -8,6 +8,7 @@
 
 <img src="./img/IMG_7311.png" width="300">
 <img src="./img/IMG_7312.png" width="300">
+![Alt-текст](./img/IMG_7312.png)
 
 ## Шина
 
