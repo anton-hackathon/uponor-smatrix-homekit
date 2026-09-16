@@ -33,7 +33,7 @@
 | PSRAM | нет → **GPIO16/17 свободны** |
 | USB-UART | CH340 (`1A86:7523`), драйвер macOS штатный |
 | Порт | `/dev/cu.usbserial-XXXX` |
-| `board:` | `esp32dev` — верно |
+| `board:` | `esp32dev` |
 
 ## Распайка (по умолчанию в конфигах)
 
