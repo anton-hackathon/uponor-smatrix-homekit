@@ -30,7 +30,7 @@
 |---|---|
 | Чип | ESP32-D0WD rev v1.0, dual core 240 MHz |
 | Flash | 4 MB, 3.3 V |
-| PSRAM | нет → **GPIO16/17 свободны** |
+| PSRAM | GPIO16/17 |
 | USB-UART | CH340 (`1A86:7523`), драйвер macOS штатный |
 | Порт | `/dev/cu.usbserial-XXXX` |
 | `board:` | `esp32dev` |
